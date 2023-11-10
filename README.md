@@ -39,6 +39,10 @@ Azure Services -
 
 4. Creation of Storage Account and assigning to specific V.nets
 
+![image](https://github.com/pratikshawankhade11/azure-project-repo/assets/90560074/bcf77c3f-d441-4b1e-a3d5-29cc989bc5ff)   
+
+
+
 
 
 
