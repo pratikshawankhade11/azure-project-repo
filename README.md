@@ -1,4 +1,4 @@
-Microsoft Azure Project
+# Microsoft Azure Project
 
 Team Members- 
 1. Samiksha Sanjay Desai
@@ -41,16 +41,18 @@ Azure Services -
 
 ![image](https://github.com/pratikshawankhade11/azure-project-repo/assets/90560074/bcf77c3f-d441-4b1e-a3d5-29cc989bc5ff)   
 
-Project Synopsis - 
-https://drive.google.com/file/d/1uiXwqdpE-mI9Id0aD7m6ACP_sCXmTaqz/view?usp=drivesdk      
+
+Project Synopsis -   
+https://drive.google.com/file/d/1YdzmZzUQDv2t8xFaZivjWV9auQNtGLgP/view?usp=sharing      
 
 Project Demonstration Video - 
-https://drive.google.com/file/d/1KxYpNK5iu3eEElR1SPbQLaNTOdivhb9H/view?usp=drivesdk    
+https://drive.google.com/file/d/17_KwO3suEb4lAFWHhkDXMTBLqR6V1aJ-/view?usp=sharing        
 
 
+Microsoft Azure Project Synopsis - 
+[Microsoft Azure Project - Synopsis.pdf](https://github.com/pratikshawankhade11/azure-project-repo/files/13319612/Microsoft.Azure.Project.-.Synopsis.pdf)
 
-
-
-
+______________________________________________________________________________________________
+   
 
 
