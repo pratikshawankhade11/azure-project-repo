@@ -41,6 +41,12 @@ Azure Services -
 
 ![image](https://github.com/pratikshawankhade11/azure-project-repo/assets/90560074/bcf77c3f-d441-4b1e-a3d5-29cc989bc5ff)   
 
+Project Synopsis - 
+https://drive.google.com/file/d/1uiXwqdpE-mI9Id0aD7m6ACP_sCXmTaqz/view?usp=drivesdk      
+
+Project Demonstration Video - 
+https://drive.google.com/file/d/1KxYpNK5iu3eEElR1SPbQLaNTOdivhb9H/view?usp=drivesdk    
+
 
 
 
