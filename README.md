@@ -314,4 +314,4 @@ Adding a file in container of Storage Account
 
 ![image](https://github.com/pratikshawankhade11/azure-project-repo/assets/90560074/4337dd81-5c22-4769-9aa0-9d839f729d58) 
 
-________________________________________ Thank You __________________________________________
+                                        ______________ Thank You _____________
